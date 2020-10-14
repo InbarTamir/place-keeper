@@ -1,0 +1,20 @@
+@font-face {
+    font-family: "Sansita Swashed";
+    src: url(../fonts/Sansita_Swashed/SansitaSwashed-Light.ttf);
+    font-weight: normal;
+}
+@font-face {
+    font-family: "Sansita Swashed";
+    src: url(../fonts/Sansita_Swashed/SansitaSwashed-ExtraBold.ttf);
+    font-weight: bold;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    width: 100vw;
+    font-family: "Sansita Swashed";
+}
